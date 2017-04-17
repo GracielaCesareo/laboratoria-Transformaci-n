@@ -4,7 +4,7 @@ body {
 }
 
 p {
-  display: inline;
+  display: inline-block;
   height: 100px;
   width: 300px;
 }
